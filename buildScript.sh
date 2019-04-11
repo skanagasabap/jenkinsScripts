@@ -2,3 +2,4 @@
 echo "This is test"
 date
 hostname
+uname
